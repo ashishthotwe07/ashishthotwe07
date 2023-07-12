@@ -2,7 +2,7 @@
 
 🌟 Aspiring Front-End Developer | Full Stack Student
 
-🎓 Currently, I'm pursuing a Full Stack course, honing my skills in HTML, CSS, JavaScript, and Bootstrap. My passion lies in creating engaging and intuitive user interfaces and crafting visually appealing web experiences.
+🎓 B.Sc Bioinformatics Student . Currently, I'm pursuing a Full Stack course, honing my skills in HTML, CSS, JavaScript, and Bootstrap. My passion lies in creating engaging and intuitive user interfaces and crafting visually appealing web experiences.
 
 💼 I am actively seeking opportunities in front-end development, where I can utilize my skills to build modern and responsive websites that deliver seamless user experiences. I'm eager to collaborate on projects that challenge me and allow me to grow as a front-end developer.
 
