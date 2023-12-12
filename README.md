@@ -1,6 +1,6 @@
 👋 Hello, I'm Ashish Thotwe!
 
-🌟 Aspiring Front-End Developer | Full Stack Student
+🌟 Aspiring Full Stack Developer |
 
 🎓 B.Sc Bioinformatics Student . Currently, I'm pursuing a Full Stack course, honing my skills in HTML, CSS, JavaScript, and Bootstrap. My passion lies in creating engaging and intuitive user interfaces and crafting visually appealing web experiences.
 
