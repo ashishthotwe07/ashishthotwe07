@@ -2,11 +2,18 @@
 <h3 align="center">A Aspiring MERN Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **REACT NATIVE , ANGULAR**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ashishthotwe07?tab=repositories](https://github.com/ashishthotwe07?tab=repositories)
 
-- 💬 Ask me about **REACT , NODE JS , EXPRESS , MONGO**
+⚡ Aspiring Full-Stack Developer with a background in BSc Bioinformatics, blending a passion for technology with expertise in web development.
+
+🌱 Currently expanding my skills in the MERN (MongoDB, Express.js, React, Node.js) stack, alongside learning React Native and Angular.
+
+👨‍💻 Proficient in building robust and scalable web applications using technologies such as React, Node.js, Express, MongoDB, JavaScript, HTML, and CSS.
+
+🎓 Graduated with a degree in Bioinformatics, leveraging my analytical and problem-solving skills to excel in programming and software development.
+
+💬 Let's connect to discuss anything related to web development, programming, or bioinformatics!
+
 
 - 📫 How to reach me **ashishthotwe20@gmail.com**
 
